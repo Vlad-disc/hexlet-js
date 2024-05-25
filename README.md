@@ -1,1 +1,1 @@
-Myt first project on Hexlet!
+My first project on Hexlet!
