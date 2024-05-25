@@ -1,1 +1,1 @@
-# hexlet-js
+Myt first project on Hexlet!
